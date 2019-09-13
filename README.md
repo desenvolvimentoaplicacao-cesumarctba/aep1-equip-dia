@@ -1,1 +1,6 @@
-# aep1-equip-dia
+# aep1-equipedia
+#INTEGRANTES:
+-Fabiana
+-Daniel
+-Nathan
+-Ismael
