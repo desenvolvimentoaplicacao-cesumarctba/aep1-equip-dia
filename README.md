@@ -1,6 +1,6 @@
 # aep1-equipedia
 #INTEGRANTES:
--Fabiana
--Daniel
--Nathan
--Ismael
+-Fabiana Pedroso
+-Daniel Goulart
+-Natan Souza
+-Ismael Lucas
