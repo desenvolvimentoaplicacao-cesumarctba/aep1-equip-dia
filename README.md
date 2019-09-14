@@ -1,4 +1,4 @@
-# aep1-equipedia
+# aep1-hackerspro
 #INTEGRANTES:
 -Fabiana Pedroso
 -Daniel Goulart
